@@ -819,13 +819,13 @@ input[type="radio"] + label:before {
 
 @media screen and (max-width: 736px) {
   .image.main {
-    margin: 0rem 0;
+    margin: auto;
   }
 }
 
 @media screen and (max-width: 480px) {
   .image.main {
-    margin: 1.5rem 0;
+    margin: auto;
   }
 }
 
